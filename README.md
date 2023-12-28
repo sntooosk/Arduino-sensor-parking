@@ -1,6 +1,6 @@
 # Protótipo de Sensor para Estacionamento em Garagem
 
-Este documento descreve um protótipo de sensor para estacionamento em garagem desenvolvido pela equipe DevTech. O projeto utiliza um sensor ultrassônico para detectar a proximidade de um objeto, como um carro, e aciona sinais visuais e sonoros para indicar a distância.
+O projeto utiliza um sensor ultrassônico para detectar a proximidade de um objeto, como um carro, e aciona sinais visuais e sonoros para indicar a distância.
 
 ## Configuração
 

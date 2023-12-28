@@ -1,6 +1,6 @@
 # Protótipo de Sensor para Estacionamento em Garagem
 
-Este é um protótipo de sensor para estacionamento em garagem desenvolvido pela equipe DevTech. O projeto utiliza um sensor ultrassônico para detectar a proximidade de um objeto, como um carro, e aciona sinais visuais e sonoros para indicar a distância.
+Este documento descreve um protótipo de sensor para estacionamento em garagem desenvolvido pela equipe DevTech. O projeto utiliza um sensor ultrassônico para detectar a proximidade de um objeto, como um carro, e aciona sinais visuais e sonoros para indicar a distância.
 
 ## Configuração
 
@@ -66,6 +66,14 @@ Serial.begin(9600);
 
 A comunicação serial está configurada para uma velocidade de 9600 bps. Isso pode ser ajustado conforme necessário.
 
----
-### Galeria
-<img src="https://raw.githubusercontent.com/DevSntosx71/semafaro-arduino/main/circuitoSemafaro.png" alt="circuito" >
+## Galeria
+
+### Circuito no Tinkercad
+<img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Circuito.jpeg" alt="circuito" width="200">
+
+### Fotos do Projeto
+<img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Galeria%20(1).jpeg" alt="circuito1" width="200">
+
+<img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Galeria%20(2).jpeg" alt="circuito2" width="200">
+
+<img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Galeria%20(3).jpeg" alt="circuito3" width="200">

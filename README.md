@@ -72,7 +72,6 @@ A comunicação serial está configurada para uma velocidade de 9600 bps. Isso p
 <img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Circuito.jpeg" alt="circuito">
 
 ### Fotos do Projeto
-<img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Galeria%20(1).jpeg" alt="circuito1" width="200">
 
 <img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Galeria%20(2).jpeg" alt="circuito2" width="200">
 

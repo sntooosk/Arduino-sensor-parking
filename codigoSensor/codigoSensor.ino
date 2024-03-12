@@ -1,9 +1,4 @@
-/******************************************************************************/
-/*          Projeto: Protótipo Sensor para Estacionamento em Garagem          */
-/*                     By DevTech                                             */
-/******************************************************************************/
-
-//Configuração de Distancia Mínima em centimetros
+// Configuração de Distancia Mínima em centimetros
 const int distancia_carro = 10; 
 
 //Configurações de Portas do Arduino

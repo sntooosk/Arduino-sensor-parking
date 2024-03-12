@@ -69,7 +69,7 @@ A comunicação serial está configurada para uma velocidade de 9600 bps. Isso p
 ## Galeria
 
 ### Circuito no Tinkercad
-<img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Circuito.jpeg" alt="circuito">
+<img src="https://raw.githubusercontent.com/DevTech-alpha/Arduino-sensor-parking/main/github/sensorParking.png" alt="circuito">
 
 ### Fotos do Projeto
 

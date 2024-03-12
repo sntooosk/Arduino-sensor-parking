@@ -71,13 +71,8 @@ A comunicação serial está configurada para uma velocidade de 9600 bps. Isso p
 ### Circuito no Tinkercad
 <img src="https://raw.githubusercontent.com/DevTech-alpha/Arduino-sensor-parking/main/github/sensorParking.png" alt="circuito">
 
-### Fotos do Projeto
 
-<img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Galeria%20(2).jpeg" alt="circuito2" width="200">
-
-<img src="https://raw.githubusercontent.com/DSantosxTech/Arduino-sensor-estacionamento/main/github/Galeria%20(3).jpeg" alt="circuito3" width="200">
-
-## •Tecnologias e Linguagens
+## Tecnologias e Linguagens
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" width="60"/>
@@ -86,6 +81,6 @@ A comunicação serial está configurada para uma velocidade de 9600 bps. Isso p
 ## • Referências e documentações
 | **[C++](https://en.cppreference.com/w/)**
 
-## Assista 👇
+## Assista funcionando👇
 
 [<img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://youtube.com/shorts/QcdDXgQLeNk?si=6_nTfxqE1FCtIVvS)
